@@ -1,2 +1,1 @@
 loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjM4ZGI1MDJmLWQ2NTEtNDk3Yi04NjAwLTJmNWRhZWE5ODI4OCIsImtpbmQiOiJsb2FkZXIifQ"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/woeismenoo-source/bladeball/refs/heads/main/bb"))()
